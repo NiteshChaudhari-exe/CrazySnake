@@ -3,16 +3,17 @@
 ## Introduction
 An enhanced Snake game implemented in Python using the Pygame library, featuring multiple power-ups, and achievements.
 
-# ✨ Features
-
-- 🎮 Enhanced snake gameplay with multiple modes
-- 🎯 Three difficulty levels
-- ⚡ Power-up system (speed boost, bonus points)
-- 🏆 Achievement tracking
-- 📊 Global leaderboard
-- 💾 Save/Load game state
-- 🎵 Music and sound effects
-- 🎨 Animated menus and effects
+## Features
+### Gameplay
+- Classic snake movement with arrow key controls
+- Two-player mode with WASD controls
+- Multiple difficulty levels (Easy, Normal, Hard)
+- Power-up system:
+  - Blue bonus (+5 points)
+  - Red slow-down power-up
+- Obstacle system with increasing difficulty
+- Achievement system
+- High score tracking and leaderboard
 
 ### Controls
 - Arrow Keys: Control snake movement
@@ -32,15 +33,6 @@ An enhanced Snake game implemented in Python using the Pygame library, featuring
   - Name entry for leaderboard
   - Restart/Menu/Quit options
   - Achievement display
-
-  ## 🛠️ Development
-
-The game is structured into several key components:
-- Main game loop and state management
-- Snake movement and collision detection
-- Power-up and achievement systems
-- Menu and UI rendering
-- Save/Load functionality
 
 ## Installation
 1. Clone this repository:
@@ -63,13 +55,51 @@ pip install crazysnake
 python crazysnake.py
 ```
 
-## Settings
-- Adjustable difficulty levels
-- Toggleable music and sound effects
-- Save/Load game functionality
-- Custom controls configuration
+**Note:** Requires Python 3.7 or newer.
 
-## Contributing
+---
+
+## 🛠️ Settings
+
+- **Difficulty:** Easy, Normal, Hard (controls snake speed and obstacle count)
+- **Music & Sound:** Toggle on/off from the settings menu
+- **Controls:** Arrow keys, WASD (customization possible in code)
+- **Save/Load:** Save state with `F5`, resume with `F9`
+
+---
+
+## 🏆 Achievements
+
+- Unlock achievements by reaching score milestones (e.g., 10, 25, 50+).
+- View unlocked achievements on the game over screen.
+
+---
+
+## 🏅 Leaderboard
+
+- Enter your name after each game and see if you make it to the top 3!
+- Scores and achievements are saved locally for replay value.
+
+---
+
+
+
+## 📸 Screenshots
+
+![Game Screenshot](https://github.com/NiteshChaudhari-exe/CrazySnake/raw/main/crazysnake(1).png)
+
+---
+
+## 💡 Tips
+
+- Use `P` to pause in intense situations.
+- Power-ups can turn the tide—plan your moves!
+- The longer you survive, the more obstacles appear—stay sharp!
+
+---
+
+## 🤝 Contributing
+
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
@@ -77,12 +107,13 @@ python crazysnake.py
 5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License. Copyright (c) 2025 CrazySnake
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
+## 🙏 Acknowledgments
 
-## Acknowledgments
-- Pygame community for the excellent gaming library
-- Contributors and testers who helped improve the game
+- [Pygame](https://www.pygame.org/) community for the excellent gaming library.
+- All contributors and testers who have helped improve the game.
+
+---
+
+*Enjoy the game and feel free to contribute or suggest new features!*
