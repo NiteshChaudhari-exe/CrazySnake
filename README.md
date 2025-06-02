@@ -84,9 +84,11 @@
 
 ---
 
+
+
 ## 📸 Screenshots
 
-> *(Add screenshots here for better appeal!)*
+![Game Screenshot](https://github.com/NiteshChaudhari-exe/CrazySnake/raw/main/crazysnake(1).png)
 
 ---
 
