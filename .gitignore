@@ -3,15 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Game saves
-savegame.pkl
-high_score.txt
+# Game files
 leaderboard.txt
-
-# IDE
-.vscode/
-.idea/
+savegame.pkl
+highscore.txt
 
 # Environment
 venv/
 env/
+
+# IDE
+.vscode/
+.idea/
