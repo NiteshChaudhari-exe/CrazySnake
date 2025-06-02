@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Game saves
+savegame.pkl
+high_score.txt
+leaderboard.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+venv/
+env/
