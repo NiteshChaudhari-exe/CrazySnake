@@ -86,7 +86,8 @@ python crazysnake.py
 
 ## 📸 Screenshots
 
-![Game Screenshot](https://github.com/NiteshChaudhari-exe/CrazySnake/crazysnake(1).png)
+![Game Screenshot](https://github.com/NiteshChaudhari-exe/CrazySnake/crazysnake (1).png)
+
 
 ---
 
